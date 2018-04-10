@@ -1,6 +1,6 @@
 <template>
 	<div>
-		商品1
+		商品
 	</div>
 </template>
 <script type="text/javascript">
